@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  Aula3Exemplo2a
+//  bulb-state-app
 //
-//  Created by Fabio Binder on 01/09/23.
+//  Created by Wagner CC on 19/09/23.
 //
 
 import SwiftUI
