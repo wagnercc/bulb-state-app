@@ -1,6 +1,6 @@
 # bulb-state-app
 A simple lightbulb app created for the graduation iOS class.
-Using state control, picker and zstack.
+This project was built using state control, picker and zstack.
 
 ## App layout
 
